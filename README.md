@@ -19,6 +19,9 @@ Supported tiers:
 
 Also includes a monthly drop claim system used for seasonal cosmetic collections (the April Showers barrel on The Remnants).
 
+Leather Dye
+- Also supports you adding iron/diamond/netherite stats to leather gear so you can keep the cool thousands of dye possibilities of leather. 
+
 ## Requirements
 
 - Minecraft 26.1 (Fabric)
